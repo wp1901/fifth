@@ -1,0 +1,14 @@
+var name = prompt('Введите своё имя!');
+var age = prompt('Введите свой возраст!');
+a = prompt('9 + 2 = ');
+b = prompt('9 - 3 = ');
+c = prompt('9 * 4 = ');
+d = prompt('9 / 3 = ');
+e = prompt('9 % 2 = ');
+alert('Введите в консоль!');
+console.log('Привет! ' + name);
+console.log('9 + 2 = 11 ' + '(Ваш ответ 11)');
+console.log('9 - 3 = 6 ' + '(Ваш ответ 6)');
+console.log('9 * 4 = 36 ' + '(Ваш ответ 36)');
+console.log('9 / 3 = 3 ' + '(Ваш ответ 3)');
+console.log('9 % 2 = 4.5 ' + '(Ваш ответ 4.5)');
